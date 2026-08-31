@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+
+"""
+pls install: cryptography, aiohttp, websockets
+"""
 import os
 import sys
 import time
